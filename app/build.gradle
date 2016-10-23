@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "org.spinsuite.base"
-        minSdkVersion 14
+        minSdkVersion 17
         targetSdkVersion 21
     }
 
@@ -15,6 +15,15 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
+
+        debug {
+            debuggable true
+        }
+    }
+
+    dexOptions {
+        incremental true
+        dexInProcess = false
     }
 }
 

@@ -2,109 +2,123 @@
 <items version="2" >
 
     <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/itext-pdfa-5.5.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c9ec42ac67431eb3f076b452b6a226806ca4c9b9">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/itext-pdfa-5.5.0-5e06026008ebca1e8af86186ccb89ef78dc12887.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-692e5cfe6fd795b4ea87349ef669e8946e4b0e2f.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/classes-fc049efed4f139d32359197b80e17a2f78c7657d.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/jxl-2.6.12.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/jxl-2.6.12-f1a9f7fb8d0d8ee560a177d4e8462ae6989ce4be.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/org.eclipse.paho.client.mqttv3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9457c9c60420cdd3098f3df618d5c1d6d6e796ac">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-c3d8205ef399cb4014638f57274b139029719611.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/itextpdf-5.5.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="75f8859fed6dd22a91bc8139588674869e7925d1">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/itextpdf-5.5.0-8c124efd9f483c79b8fe61b3a44b8b33f88898cd.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/afreechart-0.0.4.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a620cc3b8d3e12d9e7b0ce3435254279390fd4ef">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/afreechart-0.0.4-e573716673aa760110821c0fa6523734fc668851.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/org.spinsuite.sync.content.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5a789fb07a5702354f7111ab4f044c4e1471a051">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/org.spinsuite.sync.content-cf3ffaabf4ffdc93d517f1dfbfffe6368880a489.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/ksoap2-android-assembly-3.0.0-jar-with-dependencies-aaca315a037d079db0990defa903e2ca3ccbd627.jar" />
-    </item>
-    <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/org.eclipse.paho.android.service.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c91f984045634ff4f71b9737f2b655374c2629ed">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-738a32cdfc94a9dd7f0baab829f0478e78af3327.jar" />
-    </item>
-    <item
-        jar="/Users/red1/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/gson-2.2.4-979bbc230fa7f7f55c7720138ca2625070334769.jar" />
-    </item>
-    <item
-        jar="/Users/red1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
+        jar="/home/vsuarez/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
         revision="22.0.1"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8e6eea7e76aa48611c6bd54d0d1461c87b39e9c5.jar" />
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_36306bc01c653fda6f0ab3ac0d620e5da3871590.jar" />
     </item>
     <item
-        jar="/Users/red1/StudioProjects/spinLux/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         revision="22.0.1"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/classes-b066a25889dfd22a4746e1c72f87585fafed2262.jar" />
+        sha1="07b10258a2659d28191a3b156905b04a94853985">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/instant-run_8dd4a812e1334e340b8cde1f433c04602c82a82d.jar" />
     </item>
     <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/xmlworker-5.5.0.jar"
-        jumboMode="false"
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/itext-pdfa-5.5.0.jar"
+        jumboMode="true"
         revision="22.0.1"
-        sha1="5e94715962c18d8a4d25407f3536f53489d84e35">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/xmlworker-5.5.0-54648854ca7bf041e1503fcc9fe22d0881492e96.jar" />
+        sha1="c9ec42ac67431eb3f076b452b6a226806ca4c9b9">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/itext-pdfa-5.5.0_9c03043788a478bf656b092e3c715340d0eaeffb.jar" />
     </item>
     <item
-        jar="/Users/red1/StudioProjects/spinLux/app/libs/js-android-jaspermobile.jar"
-        jumboMode="false"
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_30d66f43bd335c07da18beaca68036515a92bf9f.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/itextpdf-5.5.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="75f8859fed6dd22a91bc8139588674869e7925d1">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/itextpdf-5.5.0_b64432562a4bd82d16ac70e08054d02999d20b28.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/Herramientas/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/gson-2.2.4_73e9eef485064813d4ae48ee0adfaffa18ad1bdc.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/jxl-2.6.12.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/jxl-2.6.12_7953c76993f869510cce93ca4859d38e8fcf5fc2.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/js-android-jaspermobile.jar"
+        jumboMode="true"
         revision="22.0.1"
         sha1="a9df686f26c83a5c00fc25ee13f4296f408cf8a1">
-        <dex dex="/Users/red1/StudioProjects/spinLux/app/build/intermediates/pre-dexed/debug/js-android-jaspermobile-ca9a0054e67d6274dba8227af18cec028193e5a1.jar" />
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/js-android-jaspermobile_f6b375318ac967c9e6f59f9e3e8ab8535532c1c0.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="77dc7928224aa0e871f8582063a03bca721a3807">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_308872679f135b8ae3f381aabb33ae2f05fb9443.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/xmlworker-5.5.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5e94715962c18d8a4d25407f3536f53489d84e35">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/xmlworker-5.5.0_9cf2bd8ea16c249fc8dd8b2e72759d3bb003e83e.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_b92f8ab81a872f4c1749312be4d832ac195e8e33.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/afreechart-0.0.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a620cc3b8d3e12d9e7b0ce3435254279390fd4ef">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/afreechart-0.0.4_b80111c32f9da0aeada950e902e35514efdc363b.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/org.eclipse.paho.android.service.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c91f984045634ff4f71b9737f2b655374c2629ed">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service_359e8170f51634629432eeea9ac1b633a055d021.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_9b2ac5f2161d15e7e8c9636f0a415f55729de4d2.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/org.spinsuite.sync.content.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5a789fb07a5702354f7111ab4f044c4e1471a051">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/org.spinsuite.sync.content_4f1a0a4159b9f72f8622c68abcb68c056375273a.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/ksoap2-android-assembly-3.0.0-jar-with-dependencies_7ada1dff4e4b1b9a9d74b7abbfde9fa48d725c72.jar" />
+    </item>
+    <item
+        jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/libs/org.eclipse.paho.client.mqttv3.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9457c9c60420cdd3098f3df618d5c1d6d6e796ac">
+        <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3_2eee18a8c586a6cb0fe3834298aeaa191a6b77f5.jar" />
     </item>
 
 </items>

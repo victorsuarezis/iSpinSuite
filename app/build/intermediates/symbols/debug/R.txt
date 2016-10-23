@@ -1123,8 +1123,6 @@ int menu previous_next 0x7f0e0009
 int menu process 0x7f0e000a
 int menu search 0x7f0e000b
 int raw spin_suite 0x7f050000
-int raw spin_suiteori 0x7f050001
-int raw spin_suitepalich 0x7f050002
 int string ACTION_Close 0x7f06000f
 int string ACTION_Complete 0x7f060010
 int string ACTION_None 0x7f060011

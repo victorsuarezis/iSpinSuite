@@ -316,6 +316,8 @@ public class SyncService extends IntentService {
 			if (Params[i].getKey().equals(ILCall.m_Page)){
 				CurrentPage = Integer.parseInt(Params[i].getName());
 				CurrentPage++;
+				if (CurrentPage == 98)
+					System.out.println(CurrentPage);
 				iPage = i ;
 			}
 			else if (Params[i].getKey().equals(ILCall.m_WSNumber)){

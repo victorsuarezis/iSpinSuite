@@ -21,8 +21,9 @@ package org.spinsuite.util;
  */
 public class SyncValues {
 	/**	Default Values for Web Services	*/
-	public static final String 		DEFAULT_SOAP_URL 	= "http:/demo.idempiere.org";
+	public static final String 		DEFAULT_SOAP_URL 	= "http://192.168.43.228:8089";
 	public static final String 		DEFAULT_URL_PATH	= "ADInterface/services/";
+	public static final String 		SPINSUITE_URL_PATH	= "SpinSuiteService/services/";
 	public static final String 		DEFAULT_IL_VALUE	= "SpinSuiteService";
 	public static final String 		DEFAULT_NAME_SPACE 	= "http://idempiere.org/ADInterface/1_0";
 	public static final String 		DEFAULT_METHOD 		= "InitialLoad";
@@ -102,7 +103,8 @@ public class SyncValues {
 			url += "/";
 		}
 		//	Add Path
-		url += DEFAULT_URL_PATH;
+		//url += DEFAULT_URL_PATH;
+		url += SPINSUITE_URL_PATH;
 		//	Add Value
 		url += value;
 		//	Return
@@ -118,8 +120,8 @@ public class SyncValues {
 	 */
 	public static String getInitialUrl(String url) {
 		//red1 -- for InitialLoad only using org.spinsuite.webservice plugin in iDempiere
-		return DEFAULT_SOAP_URL+"/SpinSuiteService/services/"+DEFAULT_IL_VALUE;
-		//red1 -- getValidURL(url, DEFAULT_IL_VALUE);
+		//return DEFAULT_SOAP_URL+"/SpinSuiteService/services/"+DEFAULT_IL_VALUE;
+		return getValidURL(url, DEFAULT_IL_VALUE);
 	}
 	
 	/**
