@@ -370,7 +370,8 @@ public class SyncService extends IntentService {
 					//	Fixed infinite loop by Salvatore Alonge 2018-05-05
 					p_Params[iWS] = new StringNamePair(Params[iWS].getKey(), Integer.valueOf(CurrentWS -1).toString());
 					//	End
-					p_Params[iPage] = new StringNamePair(Params[iPage].getKey(), Integer.valueOf(CurrentPage).toString());
+					if (iPage != -1)
+						p_Params[iPage] = new StringNamePair(Params[iPage].getKey(), Integer.valueOf(CurrentPage).toString());
 					//	Set to Call
 					sendStatus("CurrentPage -  "+CurrentPage+" ("+pages+") DataSynch", false, -1);
 					return callWebService(p_Params);

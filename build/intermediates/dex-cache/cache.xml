@@ -12,7 +12,7 @@
         jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="07b10258a2659d28191a3b156905b04a94853985">
+        sha1="2a5631a2d0601dc43a2c76e2d862096bd0a3363a">
         <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/instant-run_8dd4a812e1334e340b8cde1f433c04602c82a82d.jar" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jar="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="77dc7928224aa0e871f8582063a03bca721a3807">
+        sha1="82fdf003c0983d32ffe1c6630d30404ac9c73ec1">
         <dex dex="/home/vsuarez/AndroidStudioProjects/iSpinSuite/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_308872679f135b8ae3f381aabb33ae2f05fb9443.jar" />
     </item>
     <item
